@@ -1,0 +1,24 @@
+"*":
+  "clang-format":
+    formatCOnSave: true
+    formatCPlusPlusOnSave: true
+  core:
+    packagesWithKeymapsDisabled: [
+      "cpp-generator"
+    ]
+    telemetryConsent: "no"
+  "cpp-generator":
+    metaAuthor: "Walker Crouse"
+    metaDateFormat: "MM/DD/YYYY"
+    useSelectedFilepath: true
+  editor:
+    preferredLineLength: 120
+    tabLength: 4
+  "exception-reporting":
+    userId: "4a5db588-4cf3-4258-9c31-d898a8ff1add"
+  fonts:
+    fontFamily: "JetBrains Mono"
+  "linter-gcc": {}
+  "linter-ui-default": {}
+  welcome:
+    showOnStartup: false

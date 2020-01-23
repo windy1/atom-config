@@ -1,0 +1,14 @@
+autocomplete-clang
+autocomplete-cmake
+busy-signal
+clang-format
+cpp-generator
+fonts
+intentions
+language-cmake
+language-docker
+language-gitignore
+linter
+linter-gcc
+linter-ui-default
+switch-header-source

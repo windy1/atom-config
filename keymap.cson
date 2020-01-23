@@ -1,0 +1,10 @@
+'atom-text-editor':
+    'alt-up': 'editor:move-to-beginning-of-previous-paragraph'
+    'alt-down': 'editor:move-to-beginning-of-next-paragraph'
+
+'atom-workspace':
+    'ctrl-shift-g': 'cpp-generator:generate-c++-files'
+
+'body':
+    'ctrl-`': 'pane:show-previous-item'
+    'ctrl-tab': 'pane:show-next-item'

@@ -1,0 +1,12 @@
+storage
+compile-cache
+blob-store
+dev
+packages
+recovery
+github.cson
+nohup.out
+.npm
+.node-gyp
+.apm
+.atom*
