@@ -5,10 +5,12 @@ clang-format
 cpp-generator
 fonts
 intentions
+keyboard-scroll
 language-cmake
 language-docker
 language-gitignore
 linter
 linter-gcc
 linter-ui-default
+pretty-json
 switch-header-source
