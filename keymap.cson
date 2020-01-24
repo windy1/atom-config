@@ -1,6 +1,8 @@
 'atom-text-editor':
     'alt-up': 'editor:move-to-beginning-of-previous-paragraph'
     'alt-down': 'editor:move-to-beginning-of-next-paragraph'
+    'ctrl-up': 'keyboard-scroll:scrollUpWithCursor'
+    'ctrl-down': 'keyboard-scroll:scrollDownWithCursor'
 
 'atom-workspace':
     'ctrl-shift-g': 'cpp-generator:generate-c++-files'
