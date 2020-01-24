@@ -3,6 +3,7 @@
     'alt-down': 'editor:move-to-beginning-of-next-paragraph'
     'ctrl-up': 'keyboard-scroll:scrollUpWithCursor'
     'ctrl-down': 'keyboard-scroll:scrollDownWithCursor'
+    'ctrl-shift-j': 'pretty-json:prettify'
 
 'atom-workspace':
     'ctrl-shift-g': 'cpp-generator:generate-c++-files'

@@ -3,13 +3,13 @@
     formatCOnSave: true
     formatCPlusPlusOnSave: true
   core:
+    disabledPackages: [
+      "autocomplete-clang"
+    ]
     packagesWithKeymapsDisabled: [
       "cpp-generator"
     ]
     telemetryConsent: "no"
-    disabledPackages: [
-      "autocomplete-clang"
-    ]
   "cpp-generator":
     metaAuthor: "Walker Crouse"
     metaDateFormat: "MM/DD/YYYY"
