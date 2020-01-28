@@ -27,3 +27,6 @@
   "linter-ui-default": {}
   welcome:
     showOnStartup: false
+".rust.source":
+  editor:
+    preferredLineLength: 99

@@ -9,8 +9,10 @@ keyboard-scroll
 language-cmake
 language-docker
 language-gitignore
+language-rust
 linter
 linter-gcc
+linter-rust
 linter-ui-default
 pretty-json
 switch-header-source
