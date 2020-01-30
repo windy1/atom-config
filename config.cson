@@ -24,9 +24,16 @@
   "keyboard-scroll":
     animate: false
   "linter-gcc": {}
+  "linter-pycodestyle": {}
   "linter-ui-default": {}
   welcome:
     showOnStartup: false
+".python.regexp.source":
+  editor:
+    preferredLineLength: 80
+".python.source":
+  editor:
+    preferredLineLength: 80
 ".rust.source":
   editor:
     preferredLineLength: 99

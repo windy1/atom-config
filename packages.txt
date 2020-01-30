@@ -12,6 +12,7 @@ language-gitignore
 language-rust
 linter
 linter-gcc
+linter-pycodestyle
 linter-rust
 linter-ui-default
 pretty-json
