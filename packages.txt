@@ -1,8 +1,7 @@
-autocomplete-clang
-autocomplete-cmake
 busy-signal
 clang-format
 cpp-generator
+file-icons
 fonts
 intentions
 keyboard-scroll
@@ -11,7 +10,6 @@ language-docker
 language-gitignore
 language-rust
 linter
-linter-gcc
 linter-pycodestyle
 linter-rust
 linter-ui-default

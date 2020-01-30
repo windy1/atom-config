@@ -26,6 +26,8 @@
   "linter-gcc": {}
   "linter-pycodestyle": {}
   "linter-ui-default": {}
+  minimap:
+    smoothScrolling: false
   welcome:
     showOnStartup: false
 ".python.regexp.source":
