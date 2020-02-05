@@ -1,6 +1,7 @@
 busy-signal
 clang-format
 cpp-generator
+docblockr
 file-icons
 fonts
 intentions
