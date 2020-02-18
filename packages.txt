@@ -1,3 +1,4 @@
+atom-beautify
 busy-signal
 clang-format
 cpp-generator

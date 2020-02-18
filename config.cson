@@ -5,6 +5,7 @@
   core:
     disabledPackages: [
       "autocomplete-clang"
+      "multi-cursor"
     ]
     packagesWithKeymapsDisabled: [
       "cpp-generator"
@@ -25,9 +26,13 @@
     animate: false
   "linter-gcc": {}
   "linter-pycodestyle": {}
+  "linter-rust":
+    disableExecTimeout: true
   "linter-ui-default": {}
   minimap:
     smoothScrolling: false
+  "tree-view":
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
 ".python.regexp.source":

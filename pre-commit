@@ -1,0 +1,4 @@
+#!/bin/sh
+
+exec ls packages | xargs -n 1 echo | cut -d/ -f1 > packages.txt
+exec git add packages.txt
