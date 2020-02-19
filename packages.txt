@@ -16,4 +16,5 @@ linter-pycodestyle
 linter-rust
 linter-ui-default
 pretty-json
+rust-format
 switch-header-source

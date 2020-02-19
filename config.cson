@@ -31,6 +31,9 @@
   "linter-ui-default": {}
   minimap:
     smoothScrolling: false
+  "rust-format":
+    formatOnSave: true
+  rustfmt: {}
   "tree-view":
     hideVcsIgnoredFiles: true
   welcome:
