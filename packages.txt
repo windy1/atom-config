@@ -6,12 +6,15 @@ docblockr
 file-icons
 fonts
 intentions
+javascript-snippets
 keyboard-scroll
+language-babel
 language-cmake
 language-docker
 language-gitignore
 language-rust
 linter
+linter-eslint
 linter-pycodestyle
 linter-rust
 linter-ui-default
