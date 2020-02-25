@@ -33,6 +33,7 @@
     smoothScrolling: false
   "rust-format":
     formatOnSave: true
+    suppressErrors: true
   rustfmt: {}
   "tree-view": {}
   welcome:
