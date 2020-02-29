@@ -4,6 +4,7 @@
     'ctrl-up': 'keyboard-scroll:scrollUpWithCursor'
     'ctrl-down': 'keyboard-scroll:scrollDownWithCursor'
     'ctrl-shift-j': 'pretty-json:prettify'
+    'ctrl-i': 'rust-api-docs-helper:trigger'
 
 'atom-workspace':
     'ctrl-shift-g': 'cpp-generator:generate-c++-files'

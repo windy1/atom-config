@@ -9,6 +9,7 @@
     ]
     packagesWithKeymapsDisabled: [
       "cpp-generator"
+      "rust-api-docs-helper"
     ]
     telemetryConsent: "no"
   "cpp-generator":
