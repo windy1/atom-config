@@ -1,10 +1,12 @@
 atom-beautify
+atom-ide-ui
 busy-signal
 clang-format
 cpp-generator
 docblockr
 file-icons
 fonts
+ide-rust
 intentions
 javascript-snippets
 keyboard-scroll

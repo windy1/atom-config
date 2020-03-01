@@ -6,6 +6,9 @@
     disabledPackages: [
       "autocomplete-clang"
       "multi-cursor"
+      "rust-format"
+      "linter"
+      "linter-rust"
     ]
     packagesWithKeymapsDisabled: [
       "cpp-generator"
@@ -23,20 +26,26 @@
     userId: "4a5db588-4cf3-4258-9c31-d898a8ff1add"
   fonts:
     fontFamily: "JetBrains Mono"
+  "ide-rust":
+    rlsDefaultConfig:
+      clippyPreference: "On"
   "keyboard-scroll":
     animate: false
   "linter-gcc": {}
   "linter-pycodestyle": {}
   "linter-rust":
+    cargoCommand: "clippy"
     disableExecTimeout: true
-  "linter-ui-default": {}
+  "linter-ui-default":
+    showPanel: true
   minimap:
     smoothScrolling: false
   "rust-format":
     formatOnSave: true
     suppressErrors: true
   rustfmt: {}
-  "tree-view": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
 ".python.regexp.source":
