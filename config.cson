@@ -1,4 +1,7 @@
 "*":
+  "atom-ide-ui":
+    "atom-ide-code-format":
+      formatOnSave: true
   "clang-format":
     formatCOnSave: true
     formatCPlusPlusOnSave: true
@@ -37,7 +40,7 @@
     cargoCommand: "clippy"
     disableExecTimeout: true
   "linter-ui-default":
-    showPanel: true
+    panelHeight: 370
   minimap:
     smoothScrolling: false
   "rust-format":
