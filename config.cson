@@ -30,6 +30,7 @@
   fonts:
     fontFamily: "JetBrains Mono"
   "ide-rust":
+    checkForToolchainUpdates: false
     rlsDefaultConfig:
       clippyPreference: "On"
   "keyboard-scroll":
@@ -41,6 +42,7 @@
     disableExecTimeout: true
   "linter-ui-default":
     panelHeight: 370
+    showPanel: true
   minimap:
     smoothScrolling: false
   "rust-format":

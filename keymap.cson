@@ -8,6 +8,7 @@
 
 'atom-workspace':
     'ctrl-shift-g': 'cpp-generator:generate-c++-files'
+    'ctrl-k shift-right': 'paner:move-pane-item'
 
 'body':
     'ctrl-`': 'pane:show-previous-item'

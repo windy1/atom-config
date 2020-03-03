@@ -20,6 +20,7 @@ linter-eslint
 linter-pycodestyle
 linter-rust
 linter-ui-default
+paner
 pretty-json
 rust-format
 switch-header-source
