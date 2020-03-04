@@ -43,6 +43,8 @@
   "linter-ui-default":
     panelHeight: 370
     showPanel: true
+  "markdown-preview":
+    useGitHubStyle: true
   minimap:
     smoothScrolling: false
   "rust-format":
