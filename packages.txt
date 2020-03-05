@@ -20,6 +20,7 @@ linter-eslint
 linter-pycodestyle
 linter-rust
 linter-ui-default
+markdown-to-pdf
 paner
 pretty-json
 rust-format
