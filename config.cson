@@ -51,8 +51,7 @@
     formatOnSave: true
     suppressErrors: true
   rustfmt: {}
-  "tree-view":
-    hideVcsIgnoredFiles: true
+  "tree-view": {}
   welcome:
     showOnStartup: false
 ".python.regexp.source":
