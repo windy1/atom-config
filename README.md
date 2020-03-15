@@ -3,8 +3,6 @@
 ## Set up
 
 ```
-$ sudo apt update
-$ sudo apt install atom
 $ cd ~/.atom
 $ git clone https://github.com/windy1/atom-config
 $ cp -r atom-config/. .

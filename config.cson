@@ -33,6 +33,9 @@
     checkForToolchainUpdates: false
     rlsDefaultConfig:
       clippyPreference: "On"
+  "ide-typescript":
+    typeScriptServer:
+      path: "/usr/local/bin/tsserver"
   "keyboard-scroll":
     animate: false
   "linter-gcc": {}
