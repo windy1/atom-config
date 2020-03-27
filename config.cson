@@ -10,8 +10,9 @@
       "autocomplete-clang"
       "multi-cursor"
       "rust-format"
-      "linter"
       "linter-rust"
+      "linter-eslint"
+      "linter"
     ]
     packagesWithKeymapsDisabled: [
       "cpp-generator"
@@ -64,5 +65,8 @@
   editor:
     preferredLineLength: 80
 ".rust.source":
+  editor:
+    preferredLineLength: 99
+".source.ts":
   editor:
     preferredLineLength: 99
