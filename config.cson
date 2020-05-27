@@ -15,7 +15,6 @@
       "multi-cursor"
       "rust-format"
       "linter-rust"
-      "linter-eslint"
       "linter"
     ]
     packagesWithKeymapsDisabled: [
@@ -48,7 +47,6 @@
     disableExecTimeout: true
   "linter-ui-default":
     panelHeight: 370
-    showPanel: true
   "markdown-preview":
     useGitHubStyle: true
   minimap:

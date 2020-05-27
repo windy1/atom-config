@@ -1,5 +1,6 @@
 atom-beautify
 atom-ide-ui
+atom-ternjs
 autoclose-html
 busy-signal
 clang-format
