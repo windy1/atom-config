@@ -27,7 +27,7 @@
     metaDateFormat: "MM/DD/YYYY"
     useSelectedFilepath: true
   editor:
-    preferredLineLength: 120
+    preferredLineLength: 99
     tabLength: 4
   "exception-reporting":
     userId: "4a5db588-4cf3-4258-9c31-d898a8ff1add"
@@ -47,6 +47,7 @@
     disableExecTimeout: true
   "linter-ui-default":
     panelHeight: 370
+    showPanel: true
   "markdown-preview":
     useGitHubStyle: true
   minimap:
