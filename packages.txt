@@ -3,6 +3,7 @@ atom-ide-ui
 autoclose-html
 busy-signal
 clang-format
+colorful-json
 cpp-generator
 docblockr
 emmet
