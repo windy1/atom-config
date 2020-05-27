@@ -6,6 +6,10 @@
     formatCOnSave: true
     formatCPlusPlusOnSave: true
   core:
+    customFileTypes:
+      "source.js.jsx": [
+        "js"
+      ]
     disabledPackages: [
       "autocomplete-clang"
       "multi-cursor"
@@ -32,8 +36,6 @@
     fontFamily: "JetBrains Mono"
   "ide-rust":
     checkForToolchainUpdates: false
-    rlsDefaultConfig:
-      clippyPreference: "On"
   "ide-typescript":
     typeScriptServer:
       path: "/usr/local/bin/tsserver"
