@@ -27,7 +27,6 @@ linter-tslint
 linter-ui-default
 paner
 pigments
-pretty-json
 rust-format
 switch-header-source
 tree-view-copy-relative-path
