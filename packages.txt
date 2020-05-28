@@ -1,3 +1,4 @@
+angular-2
 atom-beautify
 atom-ide-ui
 atom-ternjs
@@ -20,6 +21,7 @@ language-babel
 language-cmake
 language-docker
 language-gitignore
+language-html-angular
 language-rust
 linter
 linter-eslint

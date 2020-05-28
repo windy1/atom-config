@@ -10,6 +10,9 @@
       "source.js.jsx": [
         "js"
       ]
+      "text.html.ng": [
+        "html"
+      ]
     disabledPackages: [
       "autocomplete-clang"
       "multi-cursor"
