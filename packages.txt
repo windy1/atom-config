@@ -2,6 +2,7 @@ angular-2
 atom-beautify
 atom-ide-ui
 atom-ternjs
+atom-typescript
 autoclose-html
 busy-signal
 clang-format
