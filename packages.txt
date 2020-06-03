@@ -4,6 +4,7 @@ atom-ide-ui
 atom-ternjs
 atom-typescript
 autoclose-html
+auto-detect-indentation
 busy-signal
 clang-format
 colorful-json
@@ -12,6 +13,7 @@ docblockr
 emmet
 file-icons
 fonts
+git-diff-plus
 hyperclick
 ide-rust
 intentions
@@ -24,6 +26,7 @@ language-docker
 language-gitignore
 language-html-angular
 language-rust
+language-vue
 linter
 linter-eslint
 linter-pycodestyle
