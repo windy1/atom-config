@@ -10,6 +10,10 @@
     'ctrl-shift-g': 'cpp-generator:generate-c++-files'
     'ctrl-k shift-right': 'paner:move-pane-item'
 
+'.tree-view':
+    'left': 'tree-view:recursive-collapse-directory'
+    'alt-left': 'tree-view:collapse-directory'
+
 'body':
     'ctrl-`': 'pane:show-previous-item'
     'ctrl-tab': 'pane:show-next-item'
