@@ -20,6 +20,10 @@
       "linter-rust"
       "linter"
       "git-diff"
+      "angular-2"
+      "clang-format"
+      "linter-eslint"
+      "auto-detect-indentation"
     ]
     packagesWithKeymapsDisabled: [
       "cpp-generator"
@@ -32,6 +36,7 @@
     useSelectedFilepath: true
   editor:
     preferredLineLength: 99
+    tabLength: 4
   "exception-reporting":
     userId: "4a5db588-4cf3-4258-9c31-d898a8ff1add"
   fonts:
@@ -43,6 +48,9 @@
       path: "/usr/local/bin/tsserver"
   "keyboard-scroll":
     animate: false
+  "linter-eslint":
+    global:
+      useGlobalEslint: true
   "linter-gcc": {}
   "linter-pycodestyle": {}
   "linter-rust":

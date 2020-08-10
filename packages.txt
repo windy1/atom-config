@@ -26,6 +26,7 @@ language-docker
 language-gitignore
 language-html-angular
 language-rust
+language-terraform
 language-vue
 linter
 linter-eslint
@@ -35,6 +36,7 @@ linter-tslint
 linter-ui-default
 paner
 pigments
+prettier-atom
 rust-format
 switch-header-source
 tree-view-copy-relative-path
