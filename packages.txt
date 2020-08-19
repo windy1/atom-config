@@ -24,6 +24,7 @@ language-babel
 language-cmake
 language-docker
 language-gitignore
+language-groovy
 language-html-angular
 language-rust
 language-terraform
