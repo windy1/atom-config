@@ -39,6 +39,8 @@
     tabLength: 4
   "exception-reporting":
     userId: "4a5db588-4cf3-4258-9c31-d898a8ff1add"
+  "file-types":
+    "Jenkinsfile.*": "source.groovy"
   fonts:
     fontFamily: "JetBrains Mono"
   "ide-rust":

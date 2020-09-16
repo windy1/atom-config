@@ -3,8 +3,8 @@ atom-beautify
 atom-ide-ui
 atom-ternjs
 atom-typescript
-autoclose-html
 auto-detect-indentation
+autoclose-html
 busy-signal
 clang-format
 colorful-json
@@ -12,10 +12,12 @@ cpp-generator
 docblockr
 emmet
 file-icons
+file-types
 fonts
 git-diff-plus
 hyperclick
 ide-rust
+ide-typescript
 intentions
 javascript-snippets
 js-hyperclick
@@ -35,9 +37,11 @@ linter-pycodestyle
 linter-rust
 linter-tslint
 linter-ui-default
+markdown-to-pdf
 paner
 pigments
 prettier-atom
+pretty-json
 rust-format
 switch-header-source
 tree-view-copy-relative-path
