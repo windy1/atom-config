@@ -43,11 +43,9 @@
     "Jenkinsfile.*": "source.groovy"
   fonts:
     fontFamily: "JetBrains Mono"
-  "ide-rust":
-    checkForToolchainUpdates: false
+  "ide-rust": {}
   "ide-typescript":
-    typeScriptServer:
-      path: "/usr/local/bin/tsserver"
+    typeScriptServer: {}
   "keyboard-scroll":
     animate: false
   "linter-eslint":

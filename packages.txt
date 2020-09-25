@@ -3,8 +3,8 @@ atom-beautify
 atom-ide-ui
 atom-ternjs
 atom-typescript
-auto-detect-indentation
 autoclose-html
+auto-detect-indentation
 busy-signal
 clang-format
 colorful-json
@@ -17,7 +17,6 @@ fonts
 git-diff-plus
 hyperclick
 ide-rust
-ide-typescript
 intentions
 javascript-snippets
 js-hyperclick
