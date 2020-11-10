@@ -35,6 +35,7 @@
     metaDateFormat: "MM/DD/YYYY"
     useSelectedFilepath: true
   editor:
+    fontSize: 13
     preferredLineLength: 99
     tabLength: 4
   "exception-reporting":

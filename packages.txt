@@ -24,6 +24,7 @@ keyboard-scroll
 language-babel
 language-cmake
 language-docker
+language-env
 language-gitignore
 language-groovy
 language-html-angular
